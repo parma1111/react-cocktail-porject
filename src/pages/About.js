@@ -5,11 +5,10 @@ export default function About() {
     <section className="section about-section">
       <h1 className="section-title">about us</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-        repudiandae architecto qui adipisci in officiis, aperiam sequi atque
-        perferendis eos, autem maiores nisi saepe quisquam hic odio consectetur
-        nobis veritatis quasi explicabo obcaecati doloremque? Placeat ratione
-        hic aspernatur error blanditiis?
+         Hi I am Parma, founder & ceo of cocktail. So cocktail deals in many types
+         of cocktails.Here you can find all the cocktails of world.It is founded in 1998.
+         Ii gives you a specail test of cocktail that you can not find anywere in the 
+         world.Because it cares about customer reviews and there needs.
       </p>
     </section>
   );
